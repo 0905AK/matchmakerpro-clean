@@ -1,3 +1,4 @@
+import React from 'react';
 import FighterProfiles from './components/FighterProfiles';
 
 function App() {
@@ -9,6 +10,4 @@ function App() {
 }
 
 export default App;
-
-
 
