@@ -1,5 +1,5 @@
 import React from 'react';
-import FighterProfiles from './components/FighterProfiles';
+import FighterProfiles from './component/FighterProfiles';
 
 function App() {
   return (
